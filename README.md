@@ -10,7 +10,7 @@ Table of Contents
 
 ## General Information
 - Provide general information about your project here..
-This assignment is a programming assignment wherein we have to build a neural network for the prediction of stock prices of an individual firm.
+This assignment is a programming assignment where in we have to build a neural network for the prediction of stock prices of an individual firm.
 - What is the problem that your project is trying to solve?
 The aim is to predict the stock price for the next day of an individual firm. 
 - What is the dataset that is being used?
