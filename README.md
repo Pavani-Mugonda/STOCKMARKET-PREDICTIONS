@@ -18,6 +18,6 @@ The dataset we are using is the data of the past five years stock price details 
 
 ## Technologies Used
 - library � Numpy, Pandas, Matplotlib, keras
-- library � Tensorflow, sklearn
+- library � Tensorflow, sklearn.
 
 
